@@ -1,0 +1,9 @@
+1. create s3 bucket and transfer files from ec2 instance or local, and delete the older record of 7 days.
+2. Database Integration Between Public and Private EC2 Instances
+
+
+
+
+
+
+
